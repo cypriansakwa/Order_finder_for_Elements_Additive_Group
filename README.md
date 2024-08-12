@@ -10,6 +10,10 @@ The code finds the smallest integer $k$ such that $k\boldsymbol{\cdot}a\bmod n=0
 - To use this project, you need to have Rust installed on your machine.
 - If Rust is not installed, follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install) to install it.
 - After installing Rust, clone this repository and navigate to the project directory:
+## Usage
+- Modify the value of $n$ in the main function to represent the size of the additive group $\mathbb{Z}_n $.
+- Run the program using the following command:
+ ```bash cargo run
 
 ```bash
 git clone https://github.com/cypriansakwa/Order_finder_for_Elements_Additive_Group.git
