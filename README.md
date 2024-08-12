@@ -13,7 +13,8 @@ The code finds the smallest integer $k$ such that $k\boldsymbol{\cdot}a\bmod n=0
 ## Usage
 - Modify the value of $n$ in the main function to represent the size of the additive group $\mathbb{Z}_n $.
 - Run the program using the following command:
- ```bash cargo run
+ ```bash
+cargo run
 
 ```bash
 git clone https://github.com/cypriansakwa/Order_finder_for_Elements_Additive_Group.git
