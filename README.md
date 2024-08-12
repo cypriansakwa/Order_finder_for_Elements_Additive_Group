@@ -7,8 +7,8 @@ The code finds the smallest integer $k$ such that $k\boldsymbol{\cdot}a\bmod n=0
 
   ## Installation
 
-- To use this project, you need to have Rust installed on your machine. 
-
+- To use this project, you need to have Rust installed on your machine.
+- If Rust is not installed, follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install) to install it.
 - After installing Rust, clone this repository and navigate to the project directory:
 
 ```bash
