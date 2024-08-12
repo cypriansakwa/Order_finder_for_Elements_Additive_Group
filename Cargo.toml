@@ -1,5 +1,5 @@
 [package]
-name = "Order_of_Element_Additive_Group"
+name = "Order_finder_for_Elements_Additive_Group"
 version = "0.1.0"
 edition = "2021"
 
