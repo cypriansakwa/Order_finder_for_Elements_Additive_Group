@@ -5,11 +5,7 @@ The code finds the smallest integer $k$ such that $k\boldsymbol{\cdot}a\bmod n=0
 - Computes the order of all elements in \( \mathbb{Z}_n \) for a given \( n \).
 - Prints the results in a clear format.
 
-  ## Installation
-
-- To use this project, you need to have Rust installed on your machine.
-- If Rust is not installed, follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install) to install it.
-- After installing Rust, clone this repository and navigate to the project directory:
+  
 ## Usage
 - Modify the value of $n$ in the main function to represent the size of the additive group $\mathbb{Z}_n $.
 - Run the program using the following command: cargo run
@@ -17,6 +13,12 @@ The code finds the smallest integer $k$ such that $k\boldsymbol{\cdot}a\bmod n=0
 
   ## Contributing
   - If you intend to contribute to this project, fork the repository and make a pull request.
+
+  ## Installation
+
+- To use this project, you need to have Rust installed on your machine.
+- If Rust is not installed, follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install) to install it.
+- After installing Rust, clone this repository and navigate to the project directory:
 
 ```bash
 git clone https://github.com/cypriansakwa/Order_finder_for_Elements_Additive_Group.git
